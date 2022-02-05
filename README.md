@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ecart(E-commerce Web Application)](https://github.com/Shubham067/ecart)
 
-- 🌱 I’m currently learning ** Problem Solving, Design Patterns, System Design, Devops etc.**
+- 🌱 I’m currently learning **Problem Solving, Design Patterns, System Design, Devops etc.**
 
 - 💬 Ask me about **Python, Django, DRF, AWS etc.**
 
