@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Chandra</h1>
-<h3 align="center">A passionate Backend Developer and Generative AI developer from India</h3>
+<h3 align="center">A passionate Backend and Generative AI Developer from India</h3>
 
 - 🔭 I’m currently working on [Slacker(RAG based Slack AI Bot)](https://github.com/Shubham067/slack-ai-bot)
 
